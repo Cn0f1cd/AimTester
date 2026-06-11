@@ -1,0 +1,6 @@
+# Add your Python dependencies here
+# Example:
+# numpy
+# pandas
+# opencv-python
+requests
