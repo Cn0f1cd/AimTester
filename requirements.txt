@@ -1,6 +1,5 @@
-# Add your Python dependencies here
-# Example:
+# AimTester 依赖
+pygame
+# 可选其他库
 # numpy
-# pandas
-# opencv-python
-requests
+# opencv-python-headless
